@@ -1,0 +1,6 @@
+numpy
+pandas
+sciket-leanrn
+tensorflow==2.16.0
+matplotlib
+tensorboard
